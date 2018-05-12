@@ -1,4 +1,5 @@
 _repo: The-Boy-Scouts-at-the-Battle-of-Saratoga-The-Story-of-General-Burgoyne-s-Defeat_47037
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Davis, J. Watson
@@ -7,12 +8,17 @@ contributor:
     deathdate: 1959
     gutenberg_agent_id: '32768'
     url: http://www.gutenberg.org/2009/agents/32768
+covers:
+- cover_type: archival
+  image_path: 47037-h/images/cover.jpg
 creator:
   author:
     agent_name: Carter, Herbert
     gutenberg_agent_id: '2624'
     url: http://www.gutenberg.org/2009/agents/2624
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47037#The-Boy-Scouts-at-the-Battle-of-Saratoga-The-Story-of-General-Burgoyne-s-Defeat
 gutenberg_issued: '2014-10-03'
 gutenberg_type: Text
 identifiers:
